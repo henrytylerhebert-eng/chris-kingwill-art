@@ -52,4 +52,6 @@ decision are recorded.
   pathway placeholder, content model, and validation gate.
 - Review required: name spelling, all scientific/biographical claims, image
   rights, availability, and contact/social information.
+- Approved: use and embedding of the supplied YouTube video, confirmed by the
+  project owner on 2026-08-26.
 - Not implemented: CMS, ecommerce, analytics, enquiry form, or custom domain.

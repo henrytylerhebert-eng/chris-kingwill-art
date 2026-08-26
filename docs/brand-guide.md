@@ -101,6 +101,12 @@ brands:
    and “sold at Art Walk” statement.
 3. Approve the artist statement and biography in Christopher’s own voice.
 4. Supply public email and Instagram URL, or explicitly remove those pathways.
-5. Confirm permission to publish all 18 photographs and the embedded video.
+5. Confirm permission to publish all 18 photographs.
 6. Decide whether dimensions, prices, shipping, and sold status are public.
 7. Approve the color and typography system against the final image edits.
+
+## Resolved approvals
+
+- YouTube video embedding and use on the website: approved by the project owner
+  on 2026-08-26. The site retains click-to-load behavior so the third-party
+  player is not requested until a visitor chooses to play it.

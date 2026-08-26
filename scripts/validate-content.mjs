@@ -10,6 +10,10 @@ if (missingSiteFields.length) {
   throw new Error(`Missing required site fields: ${missingSiteFields.join(', ')}`)
 }
 
+if (typeof site.approvals?.youtubeEmbed !== 'boolean') {
+  throw new Error('The YouTube embed approval must be recorded explicitly')
+}
+
 if (!Array.isArray(artworks) || artworks.length === 0) {
   throw new Error('At least one artwork entry is required')
 }
@@ -30,6 +34,7 @@ for (const [index, artwork] of artworks.entries()) {
 }
 
 if (site.status === 'ready') {
+  if (!site.approvals.youtubeEmbed) throw new Error('Ready sites require approval for the YouTube embed')
   if (!site.email) throw new Error('Ready sites require a real studio email')
   if (!site.instagramUrl) throw new Error('Ready sites require a real Instagram URL or an explicit removal from the launch plan')
 }

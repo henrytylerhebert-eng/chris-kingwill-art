@@ -24,7 +24,13 @@ approval and launch configuration—not another generic discovery exercise.
 - Whether prices and dimensions appear publicly
 - Analytics/privacy preference
 - Photographer credit and publication permission for all supplied images
-- Whether the YouTube embed has approval to load third-party cookies
+
+## Resolved approvals
+
+- The supplied YouTube video is approved for use and embedding on the website.
+  Approval was confirmed by the project owner on 2026-08-26.
+- The embed remains click-to-load as a privacy-conscious presentation choice;
+  approval does not require automatic third-party loading.
 
 ## Recommended artwork record additions
 

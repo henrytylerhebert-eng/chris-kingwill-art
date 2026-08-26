@@ -19,6 +19,11 @@
   "youtubeUrl": "https://www.youtube.com/@kingwill_nh_adventure/videos",
   "youtubeHandle": "@kingwill_nh_adventure",
   "youtubeEmbedUrl": "https://www.youtube.com/embed/Dz0COIrRPv8?si=aLkcEIiUjgueQSGD",
+  "approvals": {
+    "youtubeEmbed": true,
+    "youtubeApprovedOn": "2026-08-26",
+    "youtubeApprovalSource": "Project owner confirmation"
+  },
   "email": null,
   "instagramUrl": null,
   "status": "review-required"

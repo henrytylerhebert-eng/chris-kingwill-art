@@ -43,3 +43,13 @@ The temporary site is configured for:
 
 This temporary publication does not change the `review-required` content status
 or convert the supplied draft claims into verified public facts.
+
+## Approval ledger
+
+| Item | Status | Confirmed | Source |
+| --- | --- | --- | --- |
+| Supplied YouTube video use and embedding | Approved | 2026-08-26 | Project owner confirmation |
+
+This approval applies only to the supplied YouTube video. It does not imply
+approval of the artwork photography, biography, scientific claims, availability,
+or other unresolved launch gates.
