@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.playwright-cli/
+output/
+public/artwork/*
+!public/artwork/README.md
+!public/artwork/*.jpg

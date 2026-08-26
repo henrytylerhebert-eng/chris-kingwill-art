@@ -1,0 +1,85 @@
+[
+  {
+    "id": "bahamas-sinkhole",
+    "number": "01",
+    "title": "A Bahamas Sinkhole, 11,700 BP",
+    "status": "Available",
+    "description": "Two ecosystems, one piece. Above ground: a Caribbean pine forest with a tortoise and rainbow-headed parrot. Below: a karst cave system where a barn owl roosts above the bones of a long-vanished crocodile, recording extinction at the close of the last ice age.",
+    "era": "Late Pleistocene → Holocene transition",
+    "region": "Caribbean Sea, Bahamian archipelago",
+    "fauna": "Cuban crocodile (extirpated), barn owl, Bahama parrot, hummingbird",
+    "materials": "Sculpted clay karst, real wood trunks, painted resin water",
+    "images": [
+      "/artwork/15-bahamas-cave-front.jpg",
+      "/artwork/16-bahamas-cave-owl.jpg",
+      "/artwork/17-bahamas-cave-tortoise.jpg",
+      "/artwork/18-bahamas-cave-side.jpg"
+    ]
+  },
+  {
+    "id": "cretaceous-mangrove",
+    "number": "02",
+    "title": "Late Cretaceous Mangrove Coast",
+    "status": "Available",
+    "description": "A triceratops moves through a mangrove forest along the Western Interior Seaway, the great inland sea that split North America during the late Cretaceous. The trees are hand-sculpted clay; the canopies are reindeer moss; the ground is built up in textured layers.",
+    "era": "Late Cretaceous (Maastrichtian)",
+    "region": "Western Interior Seaway shoreline, North America",
+    "fauna": "Triceratops sp.",
+    "materials": "Sculpted clay mangroves, reindeer moss, white sand, textured base",
+    "images": [
+      "/artwork/01-triceratops-mangrove-detail.jpg",
+      "/artwork/02-triceratops-mangrove-front.jpg",
+      "/artwork/03-triceratops-mangrove-wide.jpg"
+    ]
+  },
+  {
+    "id": "riverbank-tableau",
+    "number": "03",
+    "title": "Riverbank Tableau",
+    "status": "Sold at Art Walk",
+    "description": "A hippo and her calf at the water's edge as a mute swan lifts off, captured in a single moment. The base—sand on land, layered resin water along the bank—is one of the most carefully developed parts of the piece.",
+    "era": "Contemporary",
+    "region": "Sub-Saharan freshwater riparian",
+    "fauna": "Common hippopotamus (adult + calf), mute swan",
+    "materials": "Layered sand, model papyrus, resin water",
+    "images": [
+      "/artwork/04-hippos-river-front.jpg",
+      "/artwork/05-hippos-mother-calf.jpg",
+      "/artwork/06-hippo-swan-spread.jpg",
+      "/artwork/07-hippo-papyrus.jpg"
+    ]
+  },
+  {
+    "id": "galapagos-highlands",
+    "number": "04",
+    "title": "Galápagos Highlands",
+    "status": "Available",
+    "description": "Two giant tortoises in the highlands, with a hand-sculpted clay tree whose exposed root system was the most demanding part of the build. The visible cardboard base nods to the working drawings and study materials these dioramas grew out of.",
+    "era": "Contemporary",
+    "region": "Galápagos Islands, Ecuador",
+    "fauna": "Galápagos giant tortoise (Chelonoidis niger)",
+    "materials": "Sculpted clay tree, lichen canopy, sculpted boulders, moss, painted base",
+    "images": [
+      "/artwork/08-tortoises-tree-front.jpg",
+      "/artwork/09-tortoises-tree-side.jpg",
+      "/artwork/10-tortoises-tree-detail.jpg"
+    ]
+  },
+  {
+    "id": "tropical-understory",
+    "number": "05",
+    "title": "Tropical Understory",
+    "status": "Available",
+    "description": "The most botanically dense piece in the catalog. Monstera canopy, bird-of-paradise blooms, calla lilies, and a small community of birds—a rainbow lorikeet perched in the leaves and a Tasmanian native hen on the forest floor.",
+    "era": "Contemporary",
+    "region": "Australasian tropical rainforest",
+    "fauna": "Rainbow lorikeet, Tasmanian native hen",
+    "materials": "Plastic foliage, sculpted earth base, hand-painted figurines",
+    "images": [
+      "/artwork/11-rainforest-monstera.jpg",
+      "/artwork/12-rainforest-flowers.jpg",
+      "/artwork/13-rainforest-birds.jpg",
+      "/artwork/14-rainforest-detail.jpg"
+    ]
+  }
+]
